@@ -1,0 +1,31 @@
+# Bibliotecas principais para Machine Learning e Deep Learning
+torch
+torchvision
+torchaudio
+
+# Tokenização e Processamento de Texto
+tokenizers
+nltk
+
+# Otimização e Treinamento
+scipy
+scikit-learn
+tqdm
+numpy
+pandas
+seaborn
+matplotlib
+wordcloud
+
+# Manipulação de Arquivos e Parsing
+argparse
+types-simple
+filelock
+importlib-metadata
+requests
+
+# Tradução na Análise de Resultados
+deep-translator
+
+# Cliente para Explainaboard (se necessário)
+explainaboard_client
